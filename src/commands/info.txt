@@ -1,0 +1,2 @@
+any .java file appended with c at the end of it's name is a command in the tool
+some classes have static functions as they are never instantiated, some(such as the help command that requires variables to store the Strings) do need instantiation
